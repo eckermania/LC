@@ -1,1 +1,1 @@
-# LC
+# Leet Code Challenges
